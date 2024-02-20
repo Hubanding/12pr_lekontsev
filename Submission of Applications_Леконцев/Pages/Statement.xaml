@@ -10,7 +10,7 @@
 
     <Grid Background="#F8F9FA">
         <Grid Background="White" Height="60" VerticalAlignment="Top">
-            <Image HorizontalAlignment="Left" Height="40" Margin="10,10,0,0" VerticalAlignment="Top" Width="40" Source="E:\Отчёт по МДК 05.02\PR12\Submission of Applications_Паксюаткин\Submission of Applications_Паксюаткин\Image\А.png"/>
+            <Image HorizontalAlignment="Left" Height="40" Margin="10,10,0,0" VerticalAlignment="Top" Width="40" Source="D:\Новая папка\Submission of Applications\Submission of Applications_Леконцев\Image\А.png"/>
             <Label Content="Электронная приёмная компания" HorizontalAlignment="Left" Margin="55,1,0,0" VerticalAlignment="Top" FontWeight="bold" FontSize="19"/>
             <Label Content="Пермского авиационного техникума им. А.Д.Швецова" HorizontalAlignment="Left" Margin="55,24,0,0" VerticalAlignment="Top"/>
         </Grid>
