@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
@@ -14,20 +13,16 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Submission_of_Applications_Леконцев
+namespace Submission_of_Applications_Леконцев.Pages
 {
     /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
+    /// Логика взаимодействия для Statement.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class Statement : Page
     {
-        public static MainWindow init;
-        public MainWindow()
+        public Statement()
         {
             InitializeComponent();
-            init = this;
-
-            frame.Navigate(new Pages.Statement());
         }
     }
 }
